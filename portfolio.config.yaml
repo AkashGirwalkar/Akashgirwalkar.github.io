@@ -167,17 +167,17 @@ experience:
     role: "Online Sales Executive"
     period: "Oct 2017 – Dec 2018"
     description: |
-Maintained accurate enrollment and account records for learners, sustaining a 90%+ satisfaction rating. Coordinated with internal teams to ensure timely, accurate resolution of learner requests.    highlights:
+      Maintained accurate enrollment and account records for learners, sustaining a 90%+ satisfaction rating. Coordinated with internal teams to ensure timely, accurate resolution of learner requests.    highlights:
     highlights:
       - Maintained accurate enrollment and account records with a 90%+ satisfaction rating.
       - Coordinated with internal teams for timely, accurate query resolution.
       
 
- - company: "Garva Land Deal Pvt. Ltd."
+  - company: "Garva Land Deal Pvt. Ltd."
     role: "Sales & Relationship Executive"
     period: "Jul 2016 – Sep 2017"
     description: |
-Managed client documentation and communication, achieving a 92% retention rate through consistent, accurate record-keeping.
+      Managed client documentation and communication, achieving a 92% retention rate through consistent, accurate record-keeping.
     highlights:
       - Managed client documentation and communication.
       - Achieved a 92% retention rate through consistent, accurate record-keeping.
@@ -247,23 +247,23 @@ certifications:
 testimonials:
   - name: ""
     title: ""
-    company: ""
-    relationship: ""   # e.g. Manager | Colleague | Client | Mentor
-    quote:""
+    company: 
+    relationship:    # e.g. Manager | Colleague | Client | Mentor
+    quote:
     photoUrl: ""              # URL to headshot — leave empty for initials
 
   - name: ""
     title: ""
-    company: ""
-    relationship: ""
-    quote:""
+    company: 
+    relationship: 
+    quote:
     photoUrl: ""
 
   - name: ""
     title: ""
-    company: ""
-    relationship: ""
-    quote:""
+    company: 
+    relationship: 
+    quote:
     photoUrl: ""
 
 # ── Analytics (optional, always free) ──────────────────────────────────────
