@@ -7,13 +7,13 @@
 # ╔══════════════════════════════════════════════════════════════════════╗
 # ║  ** FIRST THING TO CHANGE **                                         ║
 # ║                                                                      ║
-# ║  siteMode: "landing"  → shows the GitVitae intro page (default)      ║
+# ║  siteMode: "portfolio"  → shows the GitVitae intro page (default)      ║
 # ║  siteMode: "portfolio" → shows YOUR portfolio                        ║
 # ║                                                                      ║
 # ║  Change it to "portfolio" once you have filled in your details.      ║
 # ╚══════════════════════════════════════════════════════════════════════╝
-siteMode: "landing"   # ← CHANGE THIS to "portfolio"
-siteUrl:  "https://yourusername.github.io"  # ← Your GitHub Pages URL (used for RSS & canonical links)
+siteMode: "portfolio"   # ← CHANGE THIS to "portfolio"
+siteUrl:  "https://akashgirwalkar.github.io"  # ← Your GitHub Pages URL (used for RSS & canonical links)
 showPoweredBy: false  # Set to true to show a small "Made with GitVitae" badge in your footer (helps others discover GitVitae)
 
 # ── Identity ───────────────────────────────────────────── (required) ──
@@ -81,8 +81,8 @@ sections:
 
 # ── Social links ───────────────────────────── (leave blank to hide) ───
 social:
-  github:   "https://github.com/yourusername"
-  linkedin: "https://linkedin.com/in/yourusername"
+  github:   "AkashGirwalkar"
+  linkedin: "https://www.linkedin.com/in/akash-girwalkar"
   twitter:  ""
   website:  ""
 
@@ -187,12 +187,14 @@ experience:
 # ── Projects ───────────────────────────────────────────────────────────
 # Set featured: true to show in the Featured section (max 3 recommended)
 projects:
-  - name: ""
-    description: ""
-    tags: ""
-    liveUrl: ""
-    repoUrl: ""
-    featured: 
+  - name: "Customer Program Cadence Management"
+    featured: true
+    description: "Managed recurring customer engagement programs end-to-end, ensuring consistent touchpoints, timely follow-ups, and accurate tracking across HubSpot and Salesforce."
+    highlights:
+     - Owned the full cadence lifecycle for customer accounts
+     - Maintained 90%+ satisfaction rating through consistent communication
+     - Coordinated cross-functional teams to resolve queries on time
+    url: ""
 
   - name: ""
     description: ""
