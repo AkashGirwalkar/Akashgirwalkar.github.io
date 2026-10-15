@@ -88,7 +88,7 @@ social:
 
 # ── About ──────────────────────────────────────────────────────────────
 # Use | for multi-line text. Indent each line by 2 spaces.
-about: |
+about: >
   Customer success professional with 7+ years supporting data operations, program delivery, and training across customer 
 accounts. Experienced maintaining accurate records, verifying and correcting data for consistency, and managing 
 recurring customer deliverables and cadences. Skilled at scheduling and hosting Zoom training sessions, preparing 
