@@ -188,13 +188,14 @@ experience:
 # Set featured: true to show in the Featured section (max 3 recommended)
 projects:
   - name: "Customer Program Cadence Management"
-    featured: true
     description: "Managed recurring customer engagement programs end-to-end, ensuring consistent touchpoints, timely follow-ups, and accurate tracking across HubSpot and Salesforce."
+    tags: "Customer Success, CRM"
     highlights:
      - Owned the full cadence lifecycle for customer accounts
      - Maintained 90%+ satisfaction rating through consistent communication
      - Coordinated cross-functional teams to resolve queries on time
-    url: ""
+    repourl: ""
+    featured: true
 
   - name: ""
     description: ""
