@@ -189,34 +189,13 @@ experience:
 projects:
   - name: "Customer Program Cadence Management"
     description: "Managed recurring customer engagement programs end-to-end, ensuring consistent touchpoints, timely follow-ups, and accurate tracking across HubSpot and Salesforce."
-    tags: "Customer Success, CRM"
+    tags: ["Customer Success", "CRM"]
     highlights:
-     - Owned the full cadence lifecycle for customer accounts
-     - Maintained 90%+ satisfaction rating through consistent communication
-     - Coordinated cross-functional teams to resolve queries on time
+      - Owned the full cadence lifecycle for customer accounts
+      - Maintained 90%+ satisfaction rating through consistent communication
+      - Coordinated cross-functional teams to resolve queries on time
     repourl: ""
     featured: true
-
-  - name: ""
-    description: ""
-    tags: ""
-    liveUrl: ""
-    repoUrl: ""
-    featured: 
-
-  - name: ""
-    description: ""
-    tags: ""
-    liveUrl: ""
-    repoUrl: ""
-    featured: 
-
-  - name: ""
-    description: ""
-    tags: ""
-    liveUrl: ""
-    repoUrl: ""
-    featured: 
 
 # ── Education ──────────────────────────────────────────────────────────
 education:
