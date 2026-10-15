@@ -17,12 +17,12 @@ siteUrl:  "https://yourusername.github.io"  # ← Your GitHub Pages URL (used fo
 showPoweredBy: false  # Set to true to show a small "Made with GitVitae" badge in your footer (helps others discover GitVitae)
 
 # ── Identity ───────────────────────────────────────────── (required) ──
-name: "Git Vitae"              # Your name — shown in the header and used as a fallback in the avatar
-title: "Portfolio-Resume Engineer"
+name: "Akash Girwalkar"              # Your name — shown in the header and used as a fallback in the avatar
+title: "Customer Success Associate"
 tagline: "I build free portfolios and resumes for everyone."
-email: "git-vitae@proton.me"
-phone: ""                    # Optional — e.g. "+1 (555) 000-1234". Shown in contact section and resume.
-location: "San Francisco, CA"
+email: "akashgirwalkar@gmail.com"
+phone: "+918446115312"                    # Optional — e.g. "+1 (555) 000-1234". Shown in contact section and resume.
+location: "India"
 avatarUrl: "https://api.dicebear.com/9.x/fun-emoji/svg?seed=Alex&mouth[]=wideSmile&radius=12"  # Demo avatar — replace with your own photo URL (see instructions below)
 # How to add a profile photo (free, no extra account needed):
 #   1. Go to your GitHub repo → click "Add file" → "Upload files"
@@ -89,10 +89,12 @@ social:
 # ── About ──────────────────────────────────────────────────────────────
 # Use | for multi-line text. Indent each line by 2 spaces.
 about: |
-  I'm a portfolio-resume engineer with 5+ years of experience building products
-  that people love. I specialize in React, Node.js, and distributed systems.
-  When I'm not coding, I'm hiking trails or experimenting with new coffee
-  brewing methods.
+  Customer success professional with 7+ years supporting data operations, program delivery, and training across customer 
+accounts. Experienced maintaining accurate records, verifying and correcting data for consistency, and managing 
+recurring customer deliverables and cadences. Skilled at scheduling and hosting Zoom training sessions, preparing 
+presentation materials, and following up with participants through surveys and Q&A. Comfortable managing multiple 
+customer accounts and tickets, collaborating cross-functionally with internal teams, and communicating confidently in 
+customer-facing settings. Detail-oriented, accurate under time pressure, and adaptable to new domains and tools.
 
 
 # ── Stats ──────────────────────────────────────────────────────────────
@@ -114,167 +116,159 @@ stats:
 # ── Languages ──────────────────────────────────────────────────────────
 # level options: Native | Fluent | Conversational | Basic
 languages:
-  - { name: "English",  level: "Native"        }
-  - { name: "Spanish",  level: "Conversational" }
-  - { name: "Mandarin", level: "Basic"          }
+  - { name: "English",  level: "Fluent"        }
+  - { name: "Hindi",  level: "Native" }
+  - { name: "Marathi", level: "Native"          }
 
 # ── Skills ─────────────────────────────────────────────────────────────
 skills:
-  - category: "Frontend"
-    items: [React, TypeScript, Next.js, Tailwind CSS, Framer Motion]
-  - category: "Backend"
-    items: [Node.js, Express, PostgreSQL, Redis, GraphQL]
-  - category: "DevOps"
-    items: [Docker, AWS, CI/CD, Kubernetes, Terraform]
-  - category: "Tools"
-    items: [Git, Figma, Jest, Storybook, Datadog]
+  - category: "Customer Success & Program Management"
+    items: [Customer Program & Cadence Management,Cross-Functional Team Collaboration,Confident Customer-Facing Communication]
+  - category: "Operations & Query Resolution"
+    items: [Ticketing, Query Resolution & Follow-Up, Data Accuracy, Verification & Record-Keeping]
+  - category: "Training & Enablement"
+    items: [Training Delivery & Zoom Session Hosting, Presentation & Data Visualization Support, Confident Customer-Facing Communication]
+  - category: "CRM & Data Tools"
+    items: [HubSpot, Salesforce, Zendesk, Gainsight, Excel/Google Sheets]
 
 # ── Experience ─────────────────────────────────────────────────────────
 experience:
-  - company: "Acme Corp"
-    role: "Senior Full-Stack Engineer"
-    period: "2022 – Present"
+  - company: "Uniathena"
+    role: "Retention & Collections Executive"
+    period: "Nov 2025 – May 2026"
     description: |
-      Led migration of monolithic Rails app to microservices.
-      Reduced p99 latency by 60%. Mentored a team of 4 engineers.
+      Managed account and subscription records for international clients, ensuring data accuracy. Owned renewal cycles end-to-end — tracking deliverables and following up proactively to drive retention. Coordinated with internal teams to resolve queries and escalations, and supported B2B proposals through cross-functional data compilation.
     highlights:
-      - Microservices migration
-      - 60% latency reduction
-      - Team leadership
+      - Client & Account Management
+      - Cross-Functional Collaboration
+      - Process & Operations
 
-  - company: "Startup XYZ"
-    role: "Software Engineer"
-    period: "2020 – 2022"
-    description: |
-      Built real-time collaboration features for a SaaS platform serving
-      50k users. Owned the entire frontend from scratch.
-    highlights:
-      - Real-time collaboration
-      - 50k users
-      - Frontend ownership
 
-  - company: "Freelance"
-    role: "Web Developer"
-    period: "2018 – 2020"
+  - company: "Henry Harvin Education Pvt. Ltd."
+    role: "Senior Sales & Customer Success Consultant"
+    period: "May 2022 – May 2025"
     description: |
-      Delivered 20+ web projects for small businesses and agencies across
-      e-commerce, marketing, and internal tools.
+      Managed a large learner portfolio, maintaining accurate records of progress, queries, and resolutions. Hosted Zoom webinars for training and engagement, handling setup, live delivery, and follow-ups. Drove a 25% CSAT improvement and 20% retention increase through proactive cadence management and consistent follow-through. Collaborated cross-functionally with instructors and support teams to ensure smooth program delivery.
     highlights:
-      - 20+ projects
-      - E-commerce
-      - Internal tools
+      - Managed a large client portfolio with accurate progress and query records.
+      - Hosted Zoom webinars — setup, live delivery, and follow-up.
+      - Delivered confident, customer-facing communication, resolving queries in real time.  
+      - Improved CSAT by 25% and retention by 20% through proactive follow-through.
+      - Collaborated cross-functionally with instructors and support teams.
+
+
+  - company: "Arena Animation (Aptech Ltd.)"
+    role: "Career Counsellor & Operations Coordinator"
+    period: "Feb 2019 – Apr 2022"
+    description: |
+      Delivered orientation and training sessions for 200+ learners annually, managing scheduling and follow-up communication. Maintained accurate learner records and tracked program cadences and milestones. Monitored NPS/CSAT feedback, using survey data to identify improvement areas.  
+    highlights:
+      - Delivered orientation and training for 200+ learners annually.
+      - Maintained accurate learner records and tracked program milestones.
+      - Tracked NPS/CSAT feedback to identify improvement areas.
+
+
+  - company: "Arena Animation (Aptech Ltd.)"
+    role: "Online Sales Executive"
+    period: "Oct 2017 – Dec 2018"
+    description: |
+Maintained accurate enrollment and account records for learners, sustaining a 90%+ satisfaction rating. Coordinated with internal teams to ensure timely, accurate resolution of learner requests.    highlights:
+    highlights:
+      - Maintained accurate enrollment and account records with a 90%+ satisfaction rating.
+      - Coordinated with internal teams for timely, accurate query resolution.
+      
+
+   - company: "Garva Land Deal Pvt. Ltd."
+    role: "Sales & Relationship Executive"
+    period: "Jul 2016 – Sep 2017"
+    description: |
+Managed client documentation and communication, achieving a 92% retention rate through consistent, accurate record-keeping.
+    highlights:
+      - Managed client documentation and communication.
+      - Achieved a 92% retention rate through consistent, accurate record-keeping.
+
+      
 
 # ── Projects ───────────────────────────────────────────────────────────
 # Set featured: true to show in the Featured section (max 3 recommended)
 projects:
-  - name: "OpenDesk"
-    description: "An open-source project management tool built with React and Go. 2.3k GitHub stars. Real-time updates via WebSockets."
-    tags: [React, Go, WebSockets, PostgreSQL]
-    liveUrl: "https://opendesk.example.com"
-    repoUrl: "https://github.com/yourusername/opendesk"
-    featured: true
-
-  - name: "CodeLens"
-    description: "VS Code extension that uses AI to generate inline documentation. 10k+ installs from the marketplace."
-    tags: [TypeScript, OpenAI, "VS Code API"]
+  - name: ""
+    description: ""
+    tags: ""
     liveUrl: ""
-    repoUrl: "https://github.com/yourusername/codelens"
-    featured: true
+    repoUrl: ""
+    featured: 
 
-  - name: "PriceWatch"
-    description: "Browser extension that tracks price history on e-commerce sites and alerts users to drops."
-    tags: [JavaScript, "Chrome API", Node.js]
-    liveUrl: "https://pricewatch.example.com"
-    repoUrl: "https://github.com/yourusername/pricewatch"
-    featured: false
-
-  - name: "Logbook"
-    description: "A minimalist journaling app with end-to-end encryption. Built in a weekend. 500+ users."
-    tags: ["React Native", SQLite, Crypto]
+  - name: ""
+    description: ""
+    tags: ""
     liveUrl: ""
-    repoUrl: "https://github.com/yourusername/logbook"
-    featured: false
+    repoUrl: ""
+    featured: 
+
+  - name: ""
+    description: ""
+    tags: ""
+    liveUrl: ""
+    repoUrl: ""
+    featured: 
+
+  - name: ""
+    description: ""
+    tags: ""
+    liveUrl: ""
+    repoUrl: ""
+    featured: 
 
 # ── Education ──────────────────────────────────────────────────────────
 education:
-  - institution: "University of California, Berkeley"
-    degree: "B.S. Computer Science"
-    period: "2014 – 2018"
+  - institution: "VNMAU University"
+    degree: "Bachelor of Science"
+    period: "2010-2015"
 
 # ── Certifications ─────────────────────────────────────────────────────
 certifications:
-  - title: "AWS Certified Solutions Architect – Associate"
-    issuer: "Amazon Web Services"
-    date: "2023"
-    credentialUrl: "https://aws.amazon.com/verification"
-    badgeUrl: "https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
-    tags: [Cloud, Architecture, AWS]
+  - title: "Customer Success Management Fundamentals "
+    issuer: "Linkedin"
+    date: "2025"
+    credentialUrl: "https://www.linkedin.com/learning/certificates/0d9f4bd811f45ffec18a93347be873a6b954073cc0dd9b241911b3af11fafdc3?contentTrackingId=yIQfMTaESF%2Bl2Y4UPyjItQ%3D%3D&viewName=premium-nav-upsell-text&upsellOrderOrigin=Tracking%3Av1%3Apremium_nav_upsell_text_winback%3ANav%3AIn-Product"
+    
 
-  - title: "Professional Scrum Master I"
-    issuer: "Scrum.org"
-    date: "2022"
-    credentialUrl: "https://www.scrum.org/certificates"
-    badgeUrl: "https://images.credly.com/size/340x340/images/a2790314-008a-4c3d-9e11-2a8f48155adc/image.png"
-    tags: [Agile, Scrum, Leadership]
+  - title: "Onboarding & Adoption Best Practices for CSM"
+    issuer: "Linkedin"
+    date: "2025"
+    credentialUrl: "https://www.linkedin.com/learning/certificates/0fdf973b4aa0fc4d50178f3dca426bd871c6a425c74fd30b6dbd1f7d1c5e81b8?contentTrackingId=VQN4TXNCTlqIHoRHqD8Rgw%3D%3D&viewName=premium-nav-upsell-text&upsellOrderOrigin=Tracking%3Av1%3Apremium_nav_upsell_text_winback%3ANav%3AIn-Product"
+    
 
-  - title: "Google Professional Data Engineer"
-    issuer: "Google Cloud"
-    date: "2021"
-    credentialUrl: ""
-    badgeUrl: ""
-    tags: [Data, GCP, BigQuery]
+  - title: "Onboard New Customers for Loyalty, Engagement, and Expansion"
+    issuer: "Linkedin"
+    date: "2025"
+    credentialUrl: "https://www.linkedin.com/learning/certificates/6487e8fedb02afedbedf76eb35c0c3c1ecff450ec0a2e5185a6e9975efb17f79?contentTrackingId=vVQx5I54QGytGy72C5PtDg%3D%3D&viewName=premium-nav-upsell-text&upsellOrderOrigin=Tracking%3Av1%3Apremium_nav_upsell_text_winback%3ANav%3AIn-Product"
+    
 
 
-# ── Publications ───────────────────────────────────────────────────────
-# Optional — ideal for researchers, academics, and technical writers.
-# type options: conference | journal | preprint | book-chapter | workshop
-publications:
-  - title: "Scaling Real-Time Collaboration in Distributed Systems"
-    authors: "Rivera A, Chen L, Patel S"
-    venue: "USENIX ATC 2023"
-    year: "2023"
-    url: "https://arxiv.org/abs/example"
-    type: "conference"
-    tags: [distributed-systems, real-time, scalability]
-
-  - title: "Micro-Frontend Architecture Patterns for Large-Scale SPAs"
-    authors: "Rivera A"
-    venue: "IEEE Software"
-    year: "2022"
-    url: ""
-    type: "journal"
-    tags: [frontend, architecture, micro-frontends]
 
 # ── Testimonials ───────────────────────────────────────────────────────
 testimonials:
-  - name: "Sarah Chen"
-    title: "Engineering Manager"
-    company: "Acme Corp"
-    relationship: "Manager"   # e.g. Manager | Colleague | Client | Mentor
-    quote: |
-      Alex is one of the most thoughtful engineers I've had the pleasure of
-      working with. They consistently delivered high-quality work on time and
-      elevated the entire team's standards.
+  - name: ""
+    title: ""
+    company: ""
+    relationship: ""   # e.g. Manager | Colleague | Client | Mentor
+    quote:""
     photoUrl: ""              # URL to headshot — leave empty for initials
 
-  - name: "James Okafor"
-    title: "Senior Product Designer"
-    company: "Startup XYZ"
-    relationship: "Colleague"
-    quote: |
-      Working with Alex was a joy. They have a rare ability to translate vague
-      product requirements into clean, elegant code. Our collaboration made the
-      product significantly better.
+  - name: ""
+    title: ""
+    company: ""
+    relationship: ""
+    quote:""
     photoUrl: ""
 
-  - name: "Priya Nair"
-    title: "CTO"
-    company: "FinTech Ventures"
-    relationship: "Client"
-    quote: |
-      Alex delivered the project ahead of schedule and the code quality was
-      exceptional. They communicated proactively, flagged risks early, and were
-      genuinely invested in our success.
+  - name: ""
+    title: ""
+    company: ""
+    relationship: ""
+    quote:""
     photoUrl: ""
 
 # ── Analytics (optional, always free) ──────────────────────────────────────
